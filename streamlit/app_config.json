@@ -1,0 +1,14 @@
+{
+    "snowflake": {
+        "user": "demo123",
+        "password": "Demo@123",
+        "account": "xjoowne-hg45374",
+        "warehouse": "COMPUTE_WH",
+        "database": "DB_STREAMLIT",
+        "schema": "SC_STREAMLIT"
+    },
+    "app_settings": {
+        "metadata_table_name": "sch_metadata",
+        "refresh_interval_hrs": 2
+    }
+}
