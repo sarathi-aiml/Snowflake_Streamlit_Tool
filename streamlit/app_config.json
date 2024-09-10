@@ -1,8 +1,8 @@
 {
     "snowflake": {
-        "user": "demo123",
-        "password": "Demo@123",
-        "account": "xjoowne-hg45374",
+        "user": "youruser",
+        "password": "yourpass",
+        "account": "youraccount",
         "warehouse": "COMPUTE_WH",
         "database": "DB_STREAMLIT",
         "schema": "SC_STREAMLIT"
